@@ -17,7 +17,7 @@ const Home: NextPage = () => {
             Next.js!
           </a>
         </h1>
-        <h2>Starting something cool.</h2>
+        {/* <h2>Starting something cool.</h2> */}
 
         <p className="mt-3 text-2xl">
           Get started by editing{' '}
